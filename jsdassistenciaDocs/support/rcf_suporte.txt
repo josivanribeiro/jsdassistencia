@@ -1,0 +1,51 @@
+-------------------------------------------------------------------------------------
+Endereço website
+-------------------------------------------------------------------------------------
+
+http://www.rcfassistencia.com.br
+
+-------------------------------------------------------------------------------------
+Contas webmail
+-------------------------------------------------------------------------------------
+
+Endereço: http://webmail.rcfassistencia.com.br
+
+Email: contato@rcfassistencia.com.br
+Senha: admcont1
+
+Email: orcamento@rcfassistencia.com.br
+Senha: admorcamento2
+
+Email: romildo@rcfassistencia.com.br
+Senha: @romild1903
+
+** As contas contato@ e orcamento@ estão redirecionando emails para a conta @romildo.   
+
+-------------------------------------------------------------------------------------
+Sistema gerenciador de conteúdo (CMS)
+-------------------------------------------------------------------------------------
+
+Endereço: http://www.rcfassistencia.com.br/console
+Nome de usuário: romildo
+Senha: romildo
+
+-------------------------------------------------------------------------------------
+Como alterar a senha do seu usuário no CMS?
+-------------------------------------------------------------------------------------
+1. Realize o login no console;
+2. Localize na parte superior direita o link "Alterar Senha";
+3. Clique neste link, preencha os campos "Senha" e "Confirmação da Nova Senha";
+4. Clique no botão "Alterar Senha";
+5. Será exibida uma mensagem de sucesso na alteração da senha.
+-------------------------------------------------------------------------------------
+Como alterar conteúdo no CMS?
+-------------------------------------------------------------------------------------
+1. Realize o login no console;
+2. Localize e clique na aba "Conteúdos";
+3. Na lista de conteúdos cadastrados, clique no item de conteúdo que você deseja alterar;
+4. Na página de detalhes do conteúdo, localize o campo "Conteúdo";
+5. Altere o conteúdo (texto/imagem);
+6. Clique no botão "Atualizar Conteúdo";
+7. Será exibida uma mensagem de sucesso.
+-------------------------------------------------------------------------------------
+

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "mn_Home",
+        "value": "Home",
+        "href": "#HOME",
+        "target": "",
+        "menuitem": []
+    },
+    {
+        "id": "mn_Sobre",
+        "value": "Sobre",
+        "href": "#ABOUT",
+        "target": "",
+        "menuitem": []
+    },
+    {
+        "id": "mn_Servicos",
+        "value": "Serviços",
+        "href": "#SERVICES",
+        "target": "",
+        "menuitem": []
+    },
+    {
+        "id": "mn_Depoimentos",
+        "value": "Depoimentos",
+        "href": "#TESTIMONIAL",
+        "target": "",
+        "menuitem": []
+    },
+    {
+        "id": "mn_Orcamento",
+        "value": "Orçamento",
+        "href": "#BUDGET",
+        "target": "",
+        "menuitem": []
+    },
+    {
+        "id": "mn_Contato",
+        "value": "Contato",
+        "href": "#CONTACT",
+        "target": "",
+        "menuitem": []
+    }
+]

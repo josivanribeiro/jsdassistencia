@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<config>
+  <smtp.debug>0</smtp.debug>
+  <smtp.host>smtp.rcfassistencia.com.br</smtp.host>
+  <!-- Contact -->
+  <smtp.username.contact>contato@rcfassistencia.com.br</smtp.username.contact>
+  <smtp.pwd.contact>admcont1</smtp.pwd.contact>
+  <smtp.from.name.contact>RCF Assistência | Contato</smtp.from.name.contact>
+  <smtp.from.contact>contato@rcfassistencia.com.br</smtp.from.contact>
+  <smtp.to.contact>contato@rcfassistencia.com.br</smtp.to.contact>
+  <smtp.subject.contact>RCF Assistência | Contato enviado pelo site</smtp.subject.contact>
+  <!-- Budget -->
+  <smtp.username.budget>orcamento@rcfassistencia.com.br</smtp.username.budget>
+  <smtp.pwd.budget>admorcamento2</smtp.pwd.budget>
+  <smtp.from.name.budget>RCF Assistência | Orçamento</smtp.from.name.budget>
+  <smtp.from.budget>orcamento@rcfassistencia.com.br</smtp.from.budget>
+  <smtp.to.budget>orcamento@rcfassistencia.com.br</smtp.to.budget>
+  <smtp.subject.budget>RCF Assistência | Orçamento enviado pelo site</smtp.subject.budget>
+  <!-- Database -->
+  <db.type>mysql</db.type>
+  <db.host>localhost</db.host>
+  <db.port>3306</db.port>
+  <db.user>rcf</db.user>
+  <db.pwd>admrcf</db.pwd>
+  <db.name>rcf_db</db.name>
+  <!-- File upload -->
+  <!-- 1 MB = 1000000 -->
+  <file.upload.max.size>10000000</file.upload.max.size>
+</config>
+
